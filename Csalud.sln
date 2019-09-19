@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csalud.common", "Csalud.common\Csalud.common.csproj", "{9B5ED8AA-E7E2-4CB5-9205-19F03B20A708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csalud.Web", "Csalud.Web\Csalud.Web.csproj", "{0C30599D-DC28-4AFE-9ACA-BE4CBDE701CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5ED8AA-E7E2-4CB5-9205-19F03B20A708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5ED8AA-E7E2-4CB5-9205-19F03B20A708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5ED8AA-E7E2-4CB5-9205-19F03B20A708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5ED8AA-E7E2-4CB5-9205-19F03B20A708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C30599D-DC28-4AFE-9ACA-BE4CBDE701CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C30599D-DC28-4AFE-9ACA-BE4CBDE701CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C30599D-DC28-4AFE-9ACA-BE4CBDE701CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C30599D-DC28-4AFE-9ACA-BE4CBDE701CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2638075B-28CB-4C92-BFA6-0A790A033347}
+	EndGlobalSection
+EndGlobal
